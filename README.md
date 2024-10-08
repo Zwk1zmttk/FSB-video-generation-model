@@ -1,4 +1,4 @@
-# Few-shot-based Video Generation via multimodal Fusion
+# Few-shot-based Video Generation via multimodal Fusion and Fourier Spliter
 
 Weikang Zhong,
 XiaYong Li,
