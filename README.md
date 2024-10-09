@@ -15,10 +15,10 @@ Hao Wu*
   <td style="text-align:center;" colspan="4"><b>Output Video</b></td>
 </tr>
 <tr>
-  <td><img src="assets/16-a-horse-is-running-in-the-universe,cyc.gif"></td>
-  <td><img src="assets/44-a-horse-is-running-in-the-universe.gif,cyc.gif"></td> 
-  <td><img src="assets/7-a-horse-is-running-in-the-universe,cyc.gif"></td>
-  <td><img src="assets/6-a-horse-is-running,traditional-chinese-painting,cyc.gif"></td>  
+  <td><img src="16-a-horse-is-running-in-the-universe,cyc.gif"></td>
+  <td><img src="44-a-horse-is-running-in-the-universe.gif,cyc.gif"></td> 
+  <td><img src="7-a-horse-is-running-in-the-universe,cyc.gif"></td>
+  <td><img src="6-a-horse-is-running,traditional-chinese-painting,cyc.gif"></td>  
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"a horse is running in the universe"</td>
@@ -28,10 +28,10 @@ Hao Wu*
 </tr>
 
 <tr>
-  <td><img src="assets/20-birds-fly-in-the-sunset,cyc.gif"></td>
-  <td><img src="assets/48-many-birds-fly-in-the-pink-sky,cyc.gif"></td>
-  <td><img src="assets/8-many-birds-fly-,oil-painting,bichu,Impressionism,cyc.gif"></td>              
-  <td><img src="assets/10-many-birds-fly-,oil-painting,bichu,Impressionism,cyc.gif"></td>
+  <td><img src="20-birds-fly-in-the-sunset,cyc.gif"></td>
+  <td><img src="48-many-birds-fly-in-the-pink-sky,cyc.gif"></td>
+  <td><img src="8-many-birds-fly-,oil-painting,bichu,Impressionism,cyc.gif"></td>              
+  <td><img src="10-many-birds-fly-,oil-painting,bichu,Impressionism,cyc.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"birds fly in the sunset"</td>
@@ -41,10 +41,10 @@ Hao Wu*
 </tr>
 
 <tr>
-  <td><img src="assets/0-a-girl-in-red-turns-to-smile,cyc.gif"></td>
-  <td><img src="assets/33-a-girl-in-red-turns-to-smile,cyc.gif"></td>
-  <td><img src="assets/pixel1,cyc.gif"></td>              
-  <td><img src="assets/pixel2,cyc.gif"></td>
+  <td><img src="0-a-girl-in-red-turns-to-smile,cyc.gif"></td>
+  <td><img src="33-a-girl-in-red-turns-to-smile,cyc.gif"></td>
+  <td><img src="pixel1,cyc.gif"></td>              
+  <td><img src="pixel2,cyc.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"a girl in red turns to smile"</td>
@@ -54,10 +54,10 @@ Hao Wu*
 </tr>
 
 <tr>
-  <td><img src="assets/8-an-old-man-is-playing-the-guitar,cyc.gif"></td>
-  <td><img src="assets/31-The-girl-is-playing-the-guitar,cyc.gif"></td>
-  <td><img src="assets/23-The-old-man-is-playing-the-guitar,monochrome,sketch,traditional-media,cyc.gif"></td>              
-  <td><img src="assets/2-The-boy-is-playing-the-guitar,monochrome,sketch,traditional-media.gif,cyc.gif"></td>
+  <td><img src="8-an-old-man-is-playing-the-guitar,cyc.gif"></td>
+  <td><img src="31-The-girl-is-playing-the-guitar,cyc.gif"></td>
+  <td><img src="23-The-old-man-is-playing-the-guitar,monochrome,sketch,traditional-media,cyc.gif"></td>              
+  <td><img src="2-The-boy-is-playing-the-guitar,monochrome,sketch,traditional-media.gif,cyc.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"an old man is playing the guitar"</td>
